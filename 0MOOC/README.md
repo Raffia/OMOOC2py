@@ -6,3 +6,4 @@
 ## 学习进展
 
 - 151015 首度起航，一阵恶补
+- 151016 打开芝麻星，阅读大妈写给负基础小白的[极简编程导念](http://wiki.zoomquiet.io/pythonic/MinimalistProgramStart)中
